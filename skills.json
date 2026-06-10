@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "stepwise-implementation",
+    "name": "Stepwise Implementation",
+    "description": "Implement an approved coding plan across multiple turns, completing exactly one meaningful step per turn with review, verification, and user confirmation before continuing.",
+    "path": "skills/stepwise-implementation"
+  }
+]

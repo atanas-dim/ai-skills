@@ -2,13 +2,13 @@
   {
     "slug": "stepwise-implementation",
     "name": "Stepwise Implementation",
-    "description": "Implement an approved coding plan across multiple turns, completing exactly one meaningful step per turn with review, verification, and user confirmation before continuing.",
+    "description": "Implement approved coding plans one meaningful step at a time, with review and confirmation before continuing.",
     "path": "skills/stepwise-implementation"
   },
   {
     "slug": "compact-communication",
     "name": "Compact Communication",
-    "description": "Keep coding-agent updates concise and easy to follow, with clear decisions, changes, checks, and next steps instead of long explanations.",
+    "description": "Keep coding-agent updates concise and easy to follow, with clear changes, checks, risks, and next steps.",
     "path": "skills/compact-communication"
   }
 ]
